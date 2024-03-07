@@ -1,0 +1,17 @@
+<People>
+    <item>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <age>22</age>
+    </item>
+    <item>
+        <firstName>Alan</firstName>
+        <lastName>Turing</lastName>
+        <age>30</age>
+    </item>
+    <item>
+        <firstName>Dave</firstName>
+        <lastName>Alex</lastName>
+        <age>19</age>
+    </item>
+</People>
